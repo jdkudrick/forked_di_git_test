@@ -1,0 +1,14 @@
+---
+title: "Test .Rmd"
+output: html_document
+date: "2026-09-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Purpose 
+
+This file is testing how the fork --> clone --> update daily approach will
+work for the short course users.
